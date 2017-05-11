@@ -1,0 +1,2 @@
+# RGS
+Randomly Generated Stories
